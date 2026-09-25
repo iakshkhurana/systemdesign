@@ -2,7 +2,7 @@
 
 Internal shortener for marketing / affiliate links (`amzn.to/...`). Read-heavy, global, bursty; every click must be counted.
 
-![Architecture](url-shortener/amazon-url-shortener.png)
+![Architecture](amazon-url-shortener.png)
 
 ## Functional requirements
 - Create short link for an Amazon URL — optional alias, tracking tags (affiliate, campaign, source), expiry
